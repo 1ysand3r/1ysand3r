@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi! Glad to see you here👋</h1>
-<h3 align="center">I'm Rafi from Bangladesh. Learning Web Development currently. Plus have great interest in Linux command line and shell scripting.</h3>
+<h3 align="center">I'm Rafi from Bangladesh. Passionate about programming to solve real world problems. Plus have great interest in Linux command line and shell scripting.</h3>
 
 - 🌱 I’m currently learning **Web development using MERN stack + modern extras**
 
