@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi! Glad to see you here 👋
-![banner](./gemini-svg.svg)
+![banner](./banner.svg)
 ### 
 
 # 💫 About Me:
