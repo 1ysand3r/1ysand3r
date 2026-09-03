@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 I'm Rafi from Bangladesh. Passionate about programming to solve real world problems. Plus have great interest in Linux command line and shell scripting.
 
-- 🌱 I’m currently learning **Full Stack Web development using + modern extras**
+- 🌱 I’m currently learning **Full Stack Web development + modern extras**
 
   
 ## 🌐 Socials:
